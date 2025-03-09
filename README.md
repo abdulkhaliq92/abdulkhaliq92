@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/1506ywJX/Black-White-Minimalist-Letter-AK-Logo-1.png" alt="Abdul Khaliq Logo" width="200">
 </p>
+
 ## 🚀 About Me
 
 I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **blockchain, fintech, and web development**. Passionate about writing clean and scalable code, I love solving challenging problems and building high-performance applications.
