@@ -1,4 +1,6 @@
-# Hi there, I'm Abdul Khaliq! 👋
+<p align="center">
+  <img src="https://i.postimg.cc/4N37Rq7L/Black-White-Minimalist-Letter-AK-Logo-2.png" alt="Abdul Khaliq Logo" width="200">
+</p>
 
 ## 🚀 About Me
 
