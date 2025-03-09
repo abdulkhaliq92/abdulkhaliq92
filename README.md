@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/9kB7w2mF" alt="Abdul Khaliq Logo" width="200">
+  <img src="https://i.postimg.cc/1506ywJX/Black-White-Minimalist-Letter-AK-Logo-1.png" alt="Abdul Khaliq Logo" width="200">
 </p>
 ## 🚀 About Me
 
