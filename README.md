@@ -17,7 +17,6 @@ I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **bl
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?&logo=mysql)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?&logo=solidity)
 
-
 ## 🌟 Featured Projects
 
 - [🔗 Phron AI Blockchain](https://github.com/your-project-link) - A Polkadot Substrate-based blockchain with AI-powered node telemetry.
@@ -33,8 +32,8 @@ I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **bl
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulkhaliq92/)
+[![Portfolio]](https://twitter.com/your-profile)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:abdul84415@gmail.com)
 
 ---
