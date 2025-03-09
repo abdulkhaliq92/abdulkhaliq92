@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/4N37Rq7L/Black-White-Minimalist-Letter-AK-Logo-2.png" alt="Abdul Khaliq Logo" width="200">
-</p>
+# Hi there, I'm Abdul Khaliq! 👋
 
 ## 🚀 About Me
 
@@ -34,10 +32,17 @@ I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **bl
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulkhaliq92/)
-[![Portfolio]](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:abdul84415@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulkhaliq92/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:abdul84415@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+</p>
 ---
 
 ⭐ **Fun Fact:** I love blockchain tech and enjoy playing around with AI models in my free time! 😎
