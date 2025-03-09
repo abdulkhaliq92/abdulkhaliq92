@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Khaliq! 👋
+(https://ibb.co/9kB7w2mF)
 
 ## 🚀 About Me
 
