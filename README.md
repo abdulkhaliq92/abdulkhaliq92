@@ -17,10 +17,6 @@ I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **bl
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?&logo=mysql)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?&logo=solidity)
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdulkhaliq&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkhaliq&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 
