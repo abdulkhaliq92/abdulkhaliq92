@@ -1,4 +1,4 @@
-(https://ibb.co/9kB7w2mF)
+(https://i.ibb.co/5gCPYvXN/Black-White-Minimalist-Letter-AK-Logo-1.png)
 
 ## 🚀 About Me
 
