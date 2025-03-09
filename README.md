@@ -45,6 +45,6 @@ I’m a **Full Stack Engineer** from **Lahore, Pakistan** with expertise in **bl
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
 </p>
----
+
 
 ⭐ **Fun Fact:** I love blockchain tech and enjoy playing around with AI models in my free time! 😎
